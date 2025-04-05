@@ -1,0 +1,6 @@
+name,url,description,duration,remote,adaptive,type
+Cognitive Ability Test,https://example.com/cognitive,"Test cognitive reasoning skills",45,Yes,Yes,Aptitude
+Personality Test,https://example.com/personality,"Evaluate personality traits",30,Yes,No,Behavioral
+Coding Challenge,https://example.com/coding,"Assess programming skills",60,Yes,Yes,Technical
+Situational Judgment,https://example.com/sjt,"Test decision making in scenarios",25,No,No,Judgment
+Language Proficiency,https://example.com/language,"Test English language fluency",40,Yes,Yes,Linguistic
